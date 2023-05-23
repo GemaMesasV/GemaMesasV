@@ -3,11 +3,12 @@
 
 </br>
 
-- 💻 I’m currently working at [Box2Box](https://www.box2boxstorage.com/es/) programming with 🌲 **Nuxt**.
+- 💻 I’m currently developing my skills with react.
 <p align="center">...</p>
 
 
 - 👨‍💻 All of my projects are available here, at my GitHub: [GemaMesasV](https://github.com/GemaMesasV?tab=repositories).
+- Also, I have more projects here, at my GitLab: [GemaMesasV](https://gitlab.com/users/GemaMesasV/projects)
 
 - 🗃️ And my professional profile can be found in [LinkedIn](https://www.linkedin.com/in/gema-mesas-velazquez/).
 
